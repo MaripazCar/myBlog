@@ -1,0 +1,12 @@
+#app {
+    background-color: aqua;
+}
+.line{
+    height: 6px;
+    background-color: rgb(163, 86, 235);
+    width: 90px;
+    margin: 8px auto;
+}
+#game {
+    background-color: aqua;
+}
